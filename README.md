@@ -36,9 +36,9 @@
 
 <hr width="36%" >
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisFernandoLV25&show_icons=true&theme=dark&locale=en&layout=compact" alt="LuisFernandoLV25" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisFernandoLV25&show_icons=true&theme=dark&locale=es&layout=compact" alt="LuisFernandoLV25" />
 <br><br><br><br><br><br><br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=LuisFernandoLV25&theme=dark" alt="LuisFernandoLV25" /></p>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=LuisFernandoLV25&theme=dark" alt="LuisFernandoLV25" />
 <br><br><br><br><br><br><br><br><br><br>
 
 </p>
