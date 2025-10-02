@@ -36,9 +36,9 @@
 
 <hr width="36%" >
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisFernandoLV25&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisFernandoLV25&show_icons=true&theme=dark&locale=en&layout=compact" alt="LuisFernandoLV25" /></p>
 <br><br><br><br><br><br><br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anii693&theme=dark" alt="anii693" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=LuisFernandoLV25&theme=dark" alt="LuisFernandoLV25" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 
 </p>
@@ -47,7 +47,4 @@
 
 ------
 
-
-[ANii693](https://github.com/ANii693)
-
-Last Edited on: 28/02/2023
+Last Edited on: 10/01/2025
