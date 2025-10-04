@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luis Fernando López Varela</h1>
 
-🌱 I’m currently learning **WEB Development Full-Stack**
+I’m currently learning **WEB Development Full-Stack**
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
@@ -40,11 +40,11 @@
 <br><br><br><br><br><br><br>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=LuisFernandoLV25&theme=dark" alt="LuisFernandoLV25" />
 <br><br><br><br><br><br><br><br><br><br>
-
+<\hr>
 </p>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LuisFernandoLV25&label=Profile%20views&color=0e75b6&style=flat" alt="LuisFernandoLV25" /> </p>
-<\hr>
+
 ------
 
 Last Edited on: 10/01/2025
