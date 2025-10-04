@@ -44,7 +44,7 @@
 </p>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LuisFernandoLV25&label=Profile%20views&color=0e75b6&style=flat" alt="LuisFernandoLV25" /> </p>
-
+<\hr>
 ------
 
 Last Edited on: 10/01/2025
